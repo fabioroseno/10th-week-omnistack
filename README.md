@@ -1,20 +1,23 @@
 ## 10ª SEMANA OMNISTACK
 
 1. With PowerShell as Adm install chocolatey
-    1.1. Allow https://chocolatey.org/install;
-    1.2. Restart the console and check Choco installation
+    
+    - Allow https://chocolatey.org/install;
+    - Restart the console and check Choco installation
         choco -v
     
 2. Install Long Term Support(LTS) of Node.js
-    2.1. Command Chocolatey for install Node
+
+    - Command Chocolatey for install Node
         cinst nodejs-lts
-    2.2. Restart the console and check Node.js installation
+    - Restart the console and check Node.js installation
         node -v
 
 3. Install Yarn
-    3.1. Command Chocolatey for install Yarn
+
+    - Command Chocolatey for install Yarn
         choco install yarn
-    3.2. Restart the console and check Yarn installation
+    - Restart the console and check Yarn installation
         yarn -v
 
 4. Install VSCode
